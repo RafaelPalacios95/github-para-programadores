@@ -1,2 +1,2 @@
-alert("Editado);
-console.log("qeuobo");
+window.alert("Editado);
+console.log("qeuobo dos");
